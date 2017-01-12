@@ -19,6 +19,6 @@ SD card module: https://oscarliang.com/sd-card-arduino/
 
 LCD module: https://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay
 
-https://openbitcoinatm.wordpress.com/tutorial/
+Assembling tutorial: https://openbitcoinatm.wordpress.com/tutorial/
 
 https://github.com/mayosmith/openbitcoinatm
