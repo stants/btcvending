@@ -1,5 +1,5 @@
 # btcvending
-Bitcoin cold wallet vending machine based in Arduino.
+Bitcoin cold wallet vending machine based in Arduino. Contact us in openbtcvending@gmail.com .
 
 See the demonstration video in https://www.youtube.com/watch?v=GfLw2P1rf70 .
 
