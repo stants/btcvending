@@ -5,6 +5,8 @@ See the demonstration video in https://www.youtube.com/watch?v=GfLw2P1rf70 .
 
 Inspired by the project OpenBitcoinATM.
 
+---------------------------------------------------------------------
+
 The references above are essential to assemble the project:
 
 Bill Acceptor: http://kriss-sport.com/dl-files/thirdParty/bv20_operations_manual.pdf
